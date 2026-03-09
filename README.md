@@ -9,7 +9,7 @@ This template is designed to be **easy to customize**, lightweight, and develope
 
 # Live Demo
 
-Demo: https://your-demo-link.vercel.app
+Demo: https://dev-portfolio-template-psi.vercel.app/
 
 ---
 
